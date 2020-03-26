@@ -1735,6 +1735,10 @@ input, select, textarea {
 		.container.max {
 			width: 100%;
 		}
+		.githublink {
+			float: right;
+			
+		}
 
 		@media screen and (max-width: 1024px) {
 
@@ -2207,6 +2211,10 @@ input, select, textarea {
 			.image.main img {
 				border-radius: 0;
 			}
+		
+		.image.h2grow img {
+			max-width: 266px;
+		}
 
 /* List */
 
